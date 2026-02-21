@@ -1,8 +1,7 @@
-# andoridClone
+# androidClone
 
-A tiny “Android UI in the browser” prototype. This repo currently ships as a single-page `index.html` that lays out common Android-style UI copy (lock screen time/date, “Swipe up to unlock”, quick settings toggles, and a notification-style message) for a lightweight visual clone / mock. :contentReference[oaicite:0]{index=0}
+A tiny “android UI in the browser” prototype. This repo currently ships as a single-page `index.html` that lays out common Android-style UI copy (lock screen time/date, “Swipe up to unlock”, quick settings toggles, and a notification-style message) for a lightweight visual clone / mock. :contentReference[oaicite:0]{index=0}
 
-> Repo name note: the repository is spelled **andoridClone** (typo preserved). :contentReference[oaicite:1]{index=1}
 
 ---
 
